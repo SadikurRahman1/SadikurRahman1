@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadikur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **.**
+- 🔭 I’m currently working on **Collage**
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **.**
 
