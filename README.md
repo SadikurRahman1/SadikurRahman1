@@ -1,4 +1,4 @@
-![logo](https://github.com/SadikurRahman1/SadikurRahman1/blob/main/github_banner.png)
+<--![logo](https://github.com/SadikurRahman1/SadikurRahman1/blob/main/github_banner.png)-->
 <h1 align="center">Hi 👋, I'm Sadikur Rahman</h1>
 <h3 align="center">A passionate APP designer and developer from Bangladesh</h3>
 
