@@ -31,9 +31,9 @@
 
 
 
-<h2 align="center">📱 My Flutter Development Skills</h2>
+<h2 align="center">💻 Programming & Frameworks</h2>
 
-💻 Programming & Framework
+
 
 <table align="center"> <tr>
 
@@ -69,7 +69,8 @@
 
 </tr> </table>
 
-🔌 Backend & Database
+<h2 align="center">🔌 Backend & Database</h2>
+
 
 <table align="center"> <tr>
 
@@ -90,7 +91,7 @@
 
 </tr> </table>
 
-🛠️ Development Tools
+<h2 align="center">🛠️ Development Tools</h2>
 
 <table align="center"> <tr>
 
@@ -136,7 +137,8 @@
 
 </tr> </table>
 
-🤖 Hardware & IoT
+<h2 align="center">🤖 Hardware & IoT</h2>
+
 
 <table align="center"> <tr>
 
