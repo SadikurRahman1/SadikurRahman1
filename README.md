@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sadikur%20Rahman%20Sifat&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20•%20Mobile%20App%20Developer%20•%20Dart&descAlignY=58"/>
@@ -32,54 +35,41 @@
 
 <div align="center">
 
+## 🚀 Developer Insights
+
 ## 💻 Programming & Framework
 
 <table align="center">
 <tr>
 
-<td align="center" width="140">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=Flutter"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=Flutter"/>
 </td>
 
-<td align="center" width="140">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=dart" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=Dart"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=Dart"/>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=android" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=Android"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=Python"/>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=apple" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=iOS"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=110&height=25&lines=JavaScript"/>
 </td>
 
-</tr>
-</table>
-
----
-
-## 🧠 State Management & Architecture
-
-<table align="center">
-<tr>
-
-<td align="center" width="180">
-<img src="https://cdn.simpleicons.org/flutter" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=GetX"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=HTML"/>
 </td>
 
-<td align="center" width="180">
-<img src="https://bloclibrary.dev/_astro/bloc.CD0AIb2o.svg" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=BLoC"/>
-</td>
-
-<td align="center" width="180">
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=170&height=25&lines=Clean%20Architecture"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=CSS"/>
 </td>
 
 </tr>
@@ -87,29 +77,24 @@
 
 ---
 
-## 🔥 Backend, API & Firebase
+## 🔌 Backend & Database
 
 <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=110&height=25&lines=FastAPI"/>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=supabase" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=120&height=25&lines=Supabase"/>
+</td>
+
+<td align="center" width="160">
 <img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=Firebase"/>
-</td>
-
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=REST%20API"/>
-</td>
-
-<td align="center" width="180">
-<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=180&height=25&lines=API%20Integration"/>
-</td>
-
-<td align="center" width="180">
-<img src="https://cdn-icons-png.flaticon.com/512/1019/1019709.png" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=180&height=25&lines=Payment%20Integration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=120&height=25&lines=Firebase"/>
 </td>
 
 </tr>
@@ -117,29 +102,34 @@
 
 ---
 
-## 🎨 UI/UX & Development Tools
+## 🛠️ Development Tools
 
 <table align="center">
 <tr>
 
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=Figma"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=Figma"/>
 </td>
 
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=Git"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=100&height=25&lines=Git"/>
 </td>
 
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=GitHub"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=110&height=25&lines=GitHub"/>
 </td>
 
-<td align="center" width="160">
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=110&height=25&lines=Postman"/>
+</td>
+
+<td align="center" width="150">
 <img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=150&height=25&lines=Android%20Studio"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=140&height=25&lines=Android%20Studio"/>
 </td>
 
 <td align="center" width="130">
@@ -148,14 +138,35 @@
 </td>
 
 <td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=xcode" width="55"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=90&height=25&lines=Xcode"/>
+<img src="https://skillicons.dev/icons?i=pycharm" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=110&height=25&lines=PyCharm"/>
+</td>
+
+<td align="center" width="130">
+  <img src="https://cursor.com/favicon.ico" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=110&height=25&lines=Cursor"/>
+</td>
+
+
+</tr>
+</table>
+
+
+---
+
+## 🤖 Hardware & IoT
+
+<table align="center">
+<tr>
+
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=arduino" width="55"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=120&height=25&lines=Arduino"/>
 </td>
 
 </tr>
 </table>
 
-</div>
 
 ---
 
@@ -208,26 +219,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadikurrahman1&theme=algolia&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
-# 📊 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadikurrahman1&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
 # ✍️ Random Developer Quote
 
 <p align="center">
@@ -269,5 +260,3 @@
 ### ⭐ Feel free to explore my repositories and connect with me!
 
 </div>
-## 🚀 Developer Insights
-
