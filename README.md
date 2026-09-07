@@ -116,3 +116,37 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikurrahma
 ⭐ Feel free to explore my repositories and connect with me!
 
 </p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadikurrahman1&no-frame=true&row=1" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api?username=sadikurrahman1&show_icons=true&hide_border=true" />
+
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikurrahman1&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadikurrahman1&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadikurrahman1&hide_border=true" />
+</p>
