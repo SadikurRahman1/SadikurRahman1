@@ -51,21 +51,6 @@ I'm a passionate **Flutter Developer** from Bangladesh 🇧🇩 with hands-on ex
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 Somali Fantasy
-
-Mobile application developed using Flutter.
-
-🔹 Flutter & Dart
-🔹 REST API Integration
-🔹 Firebase Services
-🔹 Responsive UI
-
-👉 Add your Play Store / GitHub link here
-
----
-
 ### 💡 More Projects
 
 🔗 **GitHub:** https://github.com/SadikurRahman1
